@@ -104,4 +104,5 @@ The goal is to make the user interface simple and easy to use because user satis
 GitHub  
 
 In the GitHub app we are creating a repository so we can push our work into GitHub and be able to submit. After creating a repository, you create a branch which helps the designer have different versions of a repository at one time. Make the changes you want to make to the document and commit or push the changes and save the changes to the files in your repository. After committing to the changes in a branch of main, the designer can open a pull request. After committing to the changes, you will merge your read-me-edits branch into the main branch. After the designer merges the commits, the changes on your read-edits branch will be incorporated into main. 
+https://advtechonline-my.sharepoint.com/personal/st10449069_vcconnect_edu_za/_layouts/15/stream.aspx?id=%2Fpersonal%2Fst10449069%5Fvcconnect%5Fedu%5Fza%2FDocuments%2FRecording%2D20240506%5F235225%2Ewebm&nav=%7B%22defaultNavPanel%22%3A%7B%22pluginName%22%3A%22MediaSettingsLayer%22%7D%7D&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eb99598f6%2D17db%2D49de%2Da885%2Df709eacf0de0 
 THANK YOU!!
