@@ -4,6 +4,7 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
+    android:background="@drawable/imad16"
     tools:context=".MainActivity">
 
     <LinearLayout
@@ -13,5 +14,30 @@
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"></LinearLayout>
+        app:layout_constraintTop_toTopOf="parent">
+
+        <EditText
+            android:id="@+id/etAppName"
+            android:layout_width="match_parent"
+            android:layout_height="105dp"
+            android:ems="10"
+            android:inputType="text"
+            android:text="Fluffy's Petopia"
+            android:textColor="@color/black"
+            android:textSize="28dp" />
+
+        <ImageView
+            android:id="@+id/etBunny"
+            android:layout_width="match_parent"
+            android:layout_height="481dp"
+            app:srcCompat="@drawable/imad13" />
+
+        <Button
+            android:id="@+id/btnStart"
+            android:layout_width="match_parent"
+            android:layout_height="68dp"
+            android:backgroundTint="@color/material_dynamic_primary80"
+            android:text="Start"
+            android:textSize="34dp" />
+    </LinearLayout>
 </androidx.constraintlayout.widget.ConstraintLayout>
